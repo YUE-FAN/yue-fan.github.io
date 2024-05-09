@@ -35,7 +35,7 @@ Moving forward, I am excited to explore the following research questions:
 
 ## News
 
-- **[April 2024]** Our paper on diffusion vision generalist is accepted to 3 workshops at CVPR 2024.
+- **[April 2024]** Check out our paper on diffusion vision generalist at CVPR Workshop [WFM2024](https://foundation-model.com/) (oral), [MMFM2024](https://sites.google.com/view/2nd-mmfm-workshop/), and [GCV2024](https://generative-vision.github.io/workshop-CVPR-24/).
 - **[July 2023]** Our paper on open-set semi-supervised learning is accepted to ICCV 2023.
 - **[May. 2023]** Joined Google Zurich as a student researcher. Working with [Prof. Federico Tombari](https://federicotombari.github.io/).
 - **[Jan. 2023]** 2 papers about semi-supervised learning accepted at ICLR 2023.
