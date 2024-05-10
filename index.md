@@ -17,10 +17,10 @@ Prior to this, I obtained my Master’s degree from [Saarland University](https:
 
 My research goal is to build intelligent machines that can perceive and understand the world as humans,
 with a special focus on **learning representations** of our visual world.
-So far, my primary focus has been on tackling it through a data-centric lens. That is, **how can we learn good representations with limited supervision?**
+So far, my primary focus has been on tackling it through a data-centric lens. That is, **how can we learn good representations from imperfect data?**
 Moving forward, I am excited to explore the following research questions:
-- **How can we learn universal representations that transfer well to various downstream tasks?** 
-- **What are the useful inductive biases for perceiving and understanding the visual world? How can we effectively inject them into the model?**
+- **How can we learn robust representations that generalize well across environments?** 
+- **What are the useful inductive biases for enhancing representation robustness? How can we effectively incorporate them into the model?**
 
 
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market, looking for postdoctoral and industry positions related to Computer Vision and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong>
