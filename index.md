@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Bio
 
-I am currently a Ph.D. student in [Computer Vision and Machine Learning group](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/) 
+I am a Research Engineer at Genmo.ai, working with [Dr. Ajay Jain](https://www.ajayjain.net/) and [Dr. Paras Jain](https://www.parasjain.com/) on video generation. Before that, I was a Ph.D. student in [Computer Vision and Machine Learning group](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/) 
 at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/),
 advised by [Prof. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele/).
 My research involves close collaborations with [Dr. Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html).
@@ -15,15 +15,15 @@ and [Prof. Federico Tombari](https://federicotombari.github.io/).
 Prior to this, I obtained my Master’s degree from [Saarland University](https://www.uni-saarland.de/en/home.html).
 
 
-My research goal is to build intelligent machines that can perceive and understand the world as humans,
+<!-- My research goal is to build intelligent machines that can perceive and understand the world as humans,
 with a special focus on **learning representations** of our visual world.
 So far, my primary focus has been on tackling it through a data-centric lens. That is, **how can we learn good representations from imperfect data?**
 Moving forward, I am excited to explore the following research questions:
 - **How can we learn robust representations that generalize well across environments?** 
-- **What are the useful inductive biases for enhancing representation robustness? How can we effectively incorporate them into the model?**
+- **What are the useful inductive biases for enhancing representation robustness? How can we effectively incorporate them into the model?** -->
 
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market, looking for postdoctoral and industry positions related to Computer Vision and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong>
+<!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the job market, looking for postdoctoral and industry positions related to Computer Vision and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong> -->
 
 
 [//]: # (## Research Interests)
@@ -34,7 +34,8 @@ Moving forward, I am excited to explore the following research questions:
 [//]: # (- **Machine Learning:** meta-learning, incremental learning, transfer learning)
 
 ## News
-
+- **[March 2025]** Check out our new paper [Tokenformer](https://openreview.net/pdf?id=oQ4igHyh3N) at ICLR 2025 (**Spotlight**).
+- **[February 2025]** Joined Genmo as a research engineer. Working with [Dr. Ajay Jain](https://www.ajayjain.net/) and [Dr. Paras Jain](https://www.parasjain.com/).
 - **[April 2024]** Check out our paper on diffusion vision generalist at CVPR Workshop [WFM2024](https://foundation-model.com/) (oral), [MMFM2024](https://sites.google.com/view/2nd-mmfm-workshop/), and [GCV2024](https://generative-vision.github.io/workshop-CVPR-24/).
 - **[July 2023]** Our paper on open-set semi-supervised learning is accepted to ICCV 2023.
 - **[May. 2023]** Joined Google Zurich as a student researcher. Working with [Prof. Federico Tombari](https://federicotombari.github.io/).
