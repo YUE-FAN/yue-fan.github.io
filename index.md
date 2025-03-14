@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Bio
 
-I am a Research Engineer at Genmo.ai, working with [Dr. Ajay Jain](https://www.ajayjain.net/) and [Dr. Paras Jain](https://www.parasjain.com/) on video generation. Before that, I was a Ph.D. student in [Computer Vision and Machine Learning group](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/) 
+I am a Research Engineer at Genmo.ai, working with [Ajay Jain](https://www.ajayjain.net/) and [Paras Jain](https://www.parasjain.com/) on video generation. Before that, I was a Ph.D. student in [Computer Vision and Machine Learning group](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/) 
 at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/),
 advised by [Prof. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele/).
 My research involves close collaborations with [Dr. Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html).
@@ -35,7 +35,7 @@ Moving forward, I am excited to explore the following research questions:
 
 ## News
 - **[March 2025]** Check out our new paper [Tokenformer](https://openreview.net/pdf?id=oQ4igHyh3N) at ICLR 2025 (**Spotlight**).
-- **[February 2025]** Joined Genmo as a research engineer. Working with [Dr. Ajay Jain](https://www.ajayjain.net/) and [Dr. Paras Jain](https://www.parasjain.com/).
+- **[February 2025]** Joined Genmo as a research engineer. Working with [Ajay Jain](https://www.ajayjain.net/) and [    Paras Jain](https://www.parasjain.com/).
 - **[April 2024]** Check out our paper on diffusion vision generalist at CVPR Workshop [WFM2024](https://foundation-model.com/) (oral), [MMFM2024](https://sites.google.com/view/2nd-mmfm-workshop/), and [GCV2024](https://generative-vision.github.io/workshop-CVPR-24/).
 - **[July 2023]** Our paper on open-set semi-supervised learning is accepted to ICCV 2023.
 - **[May. 2023]** Joined Google Zurich as a student researcher. Working with [Prof. Federico Tombari](https://federicotombari.github.io/).
