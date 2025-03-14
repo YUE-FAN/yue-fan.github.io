@@ -9,6 +9,23 @@ main:
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
 #    image: ./assets/img/teaser_example_2.png
 #    notes: Early Accept
+  - title: "TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters"
+    authors: <strong>Yue Fan</strong>, Haiyang Wang, Muhammad Ferjad Naeem, Yongqin Xian, Jan Eric Lenssen, Liwei Wang, Federico Tombari, Bernt Schiele
+    conference_short: ICLR Spotlight
+    conference: The Thirteenth International Conference on Learning Representations <strong>(ICLR Spotlight)</strong>, 2025.
+    pdf: https://openreview.net/pdf?id=oQ4igHyh3N
+    code: https://github.com/Haiyang-W/TokenFormer
+    bibtex:
+    image: ./assets/img/token.png
+
+  - title: "Toward a Diffusion-Based Generalist for Dense Vision Tasks"
+    authors: <strong>Yue Fan</strong>, Yongqin Xian, Xiaohua Zhai, Alexander Kolesnikov, Muhammad Ferjad Naeem, Bernt Schiele, Federico Tombari
+    conference_short: CVPR Workshop Oral
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR Workshop Oral)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2407.00503
+    code: 
+    bibtex:
+    image: ./assets/img/diffusion.png
 
   - title: "SSB: Simple but Strong Baseline for Boosting Performance of Open-Set Semi-Supervised Learning"
     authors: <strong>Yue Fan</strong>, Anna Kukleva, Dengxin Dai, Bernt Schiele
